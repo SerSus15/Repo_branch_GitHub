@@ -1,10 +1,16 @@
 print('Hello, world')
 
 
+class TestGit:
+	def create_branch():
+		print('branch is created')
+
+
 print('Привет от Юры')
 
 
 print('Nikita')
 
 print('Привет от Дани!')
+
 
